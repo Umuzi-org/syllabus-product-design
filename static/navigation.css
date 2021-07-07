@@ -44,3 +44,8 @@ nav.toc ul li a:hover {
   color: #01447e;
   text-decoration: underline;
 }
+
+body{
+  border-style: double;
+  border-color: #01447e;
+}
