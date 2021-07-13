@@ -1,6 +1,6 @@
 ---
 title: Presentation and Feedback
-content_type: topic
+content_type: project
 submission_type: link
 ---
 
@@ -11,5 +11,7 @@ Reflect on the following questions:
 - What surprised you about this process? 
 - What other things might you wish to re-design in a process like this?
 
-## Presentation timetime limit: 
+## Presentation time: 
 - 10min p.p.
+
+{% image "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/make-next-presentation-best-yet-open-graph.jpg" "2SPACE!" "50vw, 100vw"%}
