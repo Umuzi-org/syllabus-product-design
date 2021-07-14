@@ -22,4 +22,6 @@ Check out this link on [Lucid Chart](https://www.lucidchart.com/blog/how-to-make
 You’re welcome to do your own additional research! 
 
 ### Expected outcomes/Deliverables
-Cearte a simple user flow diagram on Figma. Once completed submit a link to your figma project.
+Create a simple user flow diagram on Figma. Once completed submit a link to your figma project.
+
+what

@@ -10,7 +10,9 @@ nav.breadcrumbs ul li {
   display: inline;
   font-size: 18px;
 }
-
+nav.toc ul li a.active{
+  background-color: #01447e;
+}
 /* Add a slash symbol (/) before/behind each list item */
 nav.breadcrumbs ul li + li:before {
   padding: 8px;
@@ -35,17 +37,78 @@ nav.toc ul {
 }
 
 nav.toc ul li a {
-  color: #0275d8;
+  color: #ffffff;
   text-decoration: none;
 }
 
 /* Add a color on mouse-over */
 nav.toc ul li a:hover {
-  color: #01447e;
-  text-decoration: underline;
+  color: grey;
+  text-decoration: solid;
 }
 
-body{
+/* body{
   border-style: double;
   border-color: #01447e;
+} */
+
+* {
+  box-sizing: border-box;
+}
+/* ul {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  flex: 0 0 50%;
+  border: 1px solid grey;
+  padding: 1em;
+  display: flex;
+  align-items: flex-end;
+} */
+
+.col{
+  position: fixed;
+  left: 0%;
+  height: 100%;
+  width: 300px;
+  background-color: #222723;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.col2{
+  position: absolute;
+  left: 400px;
+  width: 70%;
+  margin-top: 1%;
+  padding: 10px;
+  text-align: justify;
+}
+img{
+  border: 0%;
+  max-width: 100%;
+}
+/* #header-wrapper {
+  background: #74B559;
+  color: #74B559;
+  border-color: #74B559;
+} */
+#header-wrapper {
+  background: #FD7F2B;
+  color: #fff;
+  text-align: center;
+  border-bottom: 4px solid #FFC197;
+  padding: 1rem;
+  margin-left: -5%;
+  width: 300px
+}
+
+nav.toc ul li.active > a{
+  background-color: #0275d8;
+}
+ul li strong{
+  border: 1px solid black;
+  width: 60%;
 }
