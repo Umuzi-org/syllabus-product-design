@@ -1,10 +1,6 @@
 ---
 title: Improve working professionals experiences of working remotely
 content_type: topic
-prerequisites:
-  hard:
-  - ux-strat-bootcamp/part-one/task-five/dashboard-presentation
-  soft: []
 ---
 
 ### The Brief
