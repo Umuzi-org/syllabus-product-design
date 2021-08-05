@@ -2,7 +2,6 @@
 title: Sketch Possible Solution
 content_type: project
 submission_type: link 
-ready: true
 ---
 
 After a full day of understanding the problem for your user, today you will focus on sketching possible solutions for your user. Review existing ideas and think of how you can remix and improve them. Sketching possible solutions is something that anyone can do but it doesn’t come naturally. Remember, the solution that you come up with is what you will prototype. 
