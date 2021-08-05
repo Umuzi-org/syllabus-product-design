@@ -47,11 +47,11 @@ Month 1:
 - Macchiato – 10 cups per day
 
 Month 2:
-Regular Drip – 25 cups per day
-Decaf Drip – 15 cups per day
-Cappuccino – 20 cups per day
-Cafe Latte -  11 cups per day  
-Macchiato – 13 cups per day
+- Regular Drip – 25 cups per day
+- Decaf Drip – 15 cups per day
+- Cappuccino – 20 cups per day
+- Cafe Latte - 11 cups per day
+- Macchiato – 13 cups per day
 
 ### How to do this?
 **Step 1**: Write a title and short (literally, just short!) description of the quantitative data.
