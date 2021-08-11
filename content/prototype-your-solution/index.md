@@ -21,7 +21,7 @@ Ask yourself what you’re trying to test with the user and what you expect to o
 A well thought out prototype that will test specific variables about the problem. Make sure everything is ready for testing by confirming the schedule with your user, reviewing the prototype, and writing an interview script.
 
 ### Additional resources: 
-- [Figma Tutorial: Prototying](https://www.youtube.com/watch?v=-sAAa-CCOcg)
+- [Figma Tutorial: Prototyping](https://www.youtube.com/watch?v=-sAAa-CCOcg)
 - [Guide to Prototyping in Figma](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma)
 - [How to Prototype your ideas](https://www.designkit.org/methods#filter)
 

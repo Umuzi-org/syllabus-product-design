@@ -2,7 +2,6 @@
 title: Problem Framing and Identity Focus
 content_type: project
 submission_type: link 
-ready: true
 ---
 
 Map out the problem and pick an important place to focus. The problem you choose to solve must be a manageable piece that you can solve in one week. 
