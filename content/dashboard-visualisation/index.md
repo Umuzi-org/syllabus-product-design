@@ -56,13 +56,13 @@ Month 2:
 ### How to do this?
 **Step 1**: Write a title and short (literally, just short!) description of the quantitative data.
 
-**Step 2**: Visualise the data in the form of a dashboard. Think about what kind of information the data point provides. Then consider what type of chart or graph conveys those findings most clearly. You can select, appropriately, from the following visualisations:
-- **Bar or column chart**: Best for comparing two or more values
-- **Pie chart**: Best for demonstrating composition
-- **Line graph**: Best for analyzing trends and behaviors over time
+**Step 2**: Pick and visualise the data in the form of a dashboard. Think about what kind of information the data point provides. Then consider what type of chart or graph conveys those findings most clearly. You can select, appropriately, from the following visualisations:
+- Bar or column chart: Best for comparing two or more values
+- Pie chart: Best for demonstrating composition
+- Line graph: Best for analyzing trends and behaviors over time
 - Any other visualisation which best suits the data
 
-**Step 3**: Determine what key takeaways you draw from the dashboard. Consider what the chart or graphs communicate about the data.
+**Step 3**: Determine what key takeaways you draw from the dashboard. Consider what the chart or graphs communicate about the data.  
 
 ### Additional resources
 - [Free Google Sheets Tutorial - Google Sheets: Pivot Tables + Data Insights For Beginners!](https://www.udemy.com/course/augmented-analytics/)
