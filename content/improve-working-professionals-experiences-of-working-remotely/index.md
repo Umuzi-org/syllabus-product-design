@@ -1,6 +1,10 @@
 ---
 title: Improve working professionals experiences of working remotely
 content_type: topic
+prerequisites:
+  hard:
+  - content/dashboard-presentation
+  soft: []
 ---
 
 ### The Brief
