@@ -5,7 +5,7 @@ submission_type: link
 ---
 
 ### Resource
-Conduct design and user research: [Link](https://openclassrooms.com/en/courses/4555276-conduct-design-and-user-research/4788941-make-personas-and-map-the-journey)
+[Conduct design and user research](https://openclassrooms.com/en/courses/4555276-conduct-design-and-user-research)
 
 This course takes 10 hours in total to complete. Spread it out over a few days. If you try to get through it all in one go, you won't absorb very much.
 
