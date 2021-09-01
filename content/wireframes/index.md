@@ -4,7 +4,7 @@ content_type: project
 submission_type: link
 prerequisites:
   hard:
-  - content/wireframes
+  - content/user-flows
 ---
 
 {% image "https://static.wixstatic.com/media/00187f_c2fb306a5a6c48c7ad21e2b903f5fa87~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01/Black-Man-Woman-Using-Mobile-Phone-E-102.webp" "2SPACE!" "50vw, 100vw"%}
