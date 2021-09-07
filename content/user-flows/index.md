@@ -23,6 +23,6 @@ Design a user flow diagram for your user navigating through an app or website to
 ### Deliverables
 - Create a simple user flow diagram on Figma. Once completed, submit a link to your Figma project.
 
-### Additional resources
+### Resources
 - [User flow kit](https://www.figma.com/community/file/830510773896272856)
 - [How to make a user flow diagram](https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram)
