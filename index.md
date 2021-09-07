@@ -1,9 +1,9 @@
 ---
 title: UX Strategy Syllabus
 content_type: course
-eleventyNavigation: 
-    key: "/"
-    title: "Home"
+eleventyNavigation:
+  key: "/"
+  title: "Home"
 ---
 
 - {% contentLink collections "content/user-interviews" "none" %}

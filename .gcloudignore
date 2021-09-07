@@ -4,3 +4,4 @@ _includes/
 .vscode/
 node_modules/
 scripts/
+.git/
