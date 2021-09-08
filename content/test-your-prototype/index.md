@@ -1,10 +1,11 @@
 ---
-title: Test Your Prototype
+_db_id: 728
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/prototype-your-solution
+  - content/prototype-your-solution
+submission_type: link
+title: Test Your Prototype
 ---
 
 ### Description

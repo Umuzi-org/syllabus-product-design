@@ -1,7 +1,8 @@
 ---
-title: Interviews
+_db_id: 726
 content_type: project
 submission_type: link
+title: Interviews
 ---
 
 {% image "https://miro.medium.com/max/700/1*I2RhE6Ztxs4pD_Zb7CTQWw.png" "interview" "50vw, 100vw"%}

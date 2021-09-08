@@ -1,10 +1,11 @@
 ---
-title: User Flows
+_db_id: 724
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/user-journey-mapping
+  - content/user-journey-mapping
+submission_type: link
+title: User Flows
 ---
 
 {% image "https://www.ebbhelp.org/wp-content/uploads/2021/05/Black-Man-_-Woman-Using-Mobile-Phone-D.png" "2SPACE!" "50vw, 100vw"%}

@@ -1,41 +1,41 @@
-content_location: ./content
-base_url: https://example.com
-flavours:
-  - name: any_language
-    includes:
-      - javascript
-      - python
-      - java
-      - kotlin
-      - swift
-      - typescript
-      - bash
+content_location: ./
+base_url: https://umuzi-digital-product-design.nw.r.appspot.com/
+# flavours:
+# - name: any_language
+#   includes:
+#     - javascript
+#     - python
+#     - java
+#     - kotlin
+#     - swift
+#     - typescript
+#     - bash
 
-  # any_unit_testing:
-  #   - pytest
-  #   - junit
-  #   - jasmine
+# any_unit_testing:
+#   - pytest
+#   - junit
+#   - jasmine
 
-  # any_frontend_framework:
-  #   - react
-  #   - angular
-  #   - noframework
+# any_frontend_framework:
+#   - react
+#   - angular
+#   - noframework
 
-  # any_mobile_development_toolset:
-  #   - ionic
+# any_mobile_development_toolset:
+#   - ionic
 
-  # none:
-  #   - none
+# none:
+#   - none
 
-  # any_fullstack_web_framework:
-  #   - django
+# any_fullstack_web_framework:
+#   - django
 
-  # any_plain_text:
-  #   - markdown
+# any_plain_text:
+#   - markdown
 
-  # misc:
-  #   - redux
+# misc:
+#   - redux
 
-  # databases:
-  #   - postgres
-  #   - mongo
+# databases:
+#   - postgres
+#   - mongo

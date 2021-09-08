@@ -1,10 +1,11 @@
 ---
-title: Sketch Possible Solution
+_db_id: 717
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/problem-frame-and-identity-focus
+  - content/problem-frame-and-identity-focus
+submission_type: link
+title: Sketch Possible Solution
 ---
 
 {% image "https://www.digitalartsonline.co.uk/cmsdata/features/3789689/stock-image.jpg" "2SPACE!" "50vw, 100vw"%}

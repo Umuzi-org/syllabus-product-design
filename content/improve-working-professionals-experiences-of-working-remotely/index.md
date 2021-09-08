@@ -1,9 +1,10 @@
 ---
-title: Improve working professionals experiences of working remotely
+_db_id: 719
 content_type: topic
 prerequisites:
   hard:
-    - content/dashboard-presentation
+  - content/dashboard-presentation
+title: Improve working professionals experiences of working remotely
 ---
 
 {% image "https://positivehire.co/wp-content/uploads/2020/09/Black-Man-_-Black-Woman-Using-Laptop-D.png" "2SPACE!" "50vw, 100vw"%}

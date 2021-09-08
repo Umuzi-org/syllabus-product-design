@@ -1,10 +1,11 @@
 ---
-title: Prototype Your Solution
+_db_id: 716
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/sketch-possible-solution
+  - content/sketch-possible-solution
+submission_type: link
+title: Prototype Your Solution
 ---
 
 {% image "https://positivehire.co/wp-content/uploads/2020/09/Black-Man-_-Black-Woman-Using-Laptop-D.png" "2SPACE!" "50vw, 100vw"%}

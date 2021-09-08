@@ -1,7 +1,8 @@
 ---
-title: User Journey Mapping
+_db_id: 725
 content_type: project
 submission_type: link
+title: User Journey Mapping
 ---
 
 Now that you’ve learnt a bit about your user, you need to create a user journey visualising their daily commute. A user journey map helps us understand what the day in the life of the user currently looks like. Do this by plotting out a story of the user, thinking through the good moments and the bad ones. We want to see the emotion of the user at each point, as they experience the scenarios they find themselves in. A user journey map should help you to visualise your user’s experience from beginning to end.
