@@ -1,5 +1,7 @@
-content_location: ./content
+content_location: ./
 base_url: https://umuzi-digital-product-design.nw.r.appspot.com/
+# include_files:
+#   - ./index.md
 # flavours:
 # - name: any_language
 #   includes:
