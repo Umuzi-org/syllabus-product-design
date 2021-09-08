@@ -1,6 +1,6 @@
 ---
-tit_db_id: 728
-le: Test Your Prototype
+_db_id: 728
+title: Test Your Prototype
 content_type: project
 submission_type: link
 prerequisites:

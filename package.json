@@ -371,7 +371,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve",
-    "validate": "node scripts/validate.js"
+    "validate": "node scripts/validate.js",
+    "start": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
