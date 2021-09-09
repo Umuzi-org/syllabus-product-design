@@ -1,32 +1,29 @@
 ---
-_db_id: 723
+title: 4. Wireframing
 content_type: project
+submission_type: link
 prerequisites:
   hard:
   - content/user-flows
-submission_type: link
-title: Wireframing
 ---
 
-{% image "https://static.wixstatic.com/media/00187f_c2fb306a5a6c48c7ad21e2b903f5fa87~mv2.png/v1/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01/Black-Man-Woman-Using-Mobile-Phone-E-102.webp" "2SPACE!" "50vw, 100vw"%}
-
 ### Description
+A wireframe is a simple visual guide that represents the skeletal framework of a website or digital product. A wireframe defines the hierarchy of items on a screen and communicate what the items on that page should be based on user needs. Elements that are typically found in wireframes include logos, search fields, headers, share buttons, and pseudo-Latin (Lorem Ipsum) placeholder text.
 
-A wireframe is a simple visual guide that represents the skeletal framework of a website or digital product. Wireframes define the hierarchy of items on a screen and communicate what the items on that page should be based on user needs. Elements that are typically found in wireframes include logos, search fields, headers, share buttons, and pseudo-Latin (Lorem Ipsum) placeholder text.
-
-### Task
-
-Using your user flow diagram as a guide, create wireframes displaying a simple skeletal framework of how your user would navigate through an app or website.
+### Task 4: Wireframing [Time Estimation: 3 Hours] 
+Using your user flow diagram as a guide, create wireframes displaying a simple skeletal framework of how your user would navigate through an app or website to achieve their goal.
 
 ### How to do this?
-
-- Follow the steps in the additional resources below to start wireframing.
+- Follow the steps in the resources provided to start wireframing.
 
 ### Deliverables
+Create simple wireframes on Figma. Please submit the link on the project card once completed. Make sure that your wireframes contain the following placeholder elements:
+- Logo
+- Search fields
+- Headers
+- Pseudo-Latin (lorem ipsum) text
+- Any additional elements you can think of
 
-- Create basic wireframes on Figma. Once completed, submit a link to your Figma file.
-
-### Resources
-
+### Resources 
 - [Wireframes Kit](https://www.figma.com/templates/wireframe-kits/?fuid=911538155964104607)
 - [A guide to designing app wireframes: step-by-step](https://www.justinmind.com/blog/mobile-app-wireframe)
