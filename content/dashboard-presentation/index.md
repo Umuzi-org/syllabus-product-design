@@ -1,10 +1,11 @@
 ---
-title: 7. Dashboard Presentation
+  _db_id: 720
 content_type: project
-submission_type: link
 prerequisites:
   hard:
   - content/dashboard-visualisation
+submission_type: link
+title: 7. Dashboard Presentation
 ---
 
 ### Description
