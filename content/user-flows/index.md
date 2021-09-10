@@ -1,10 +1,11 @@
 ---
+_db_id: 724
 title: 3. User Flow Diagram
 content_type: project
 submission_type: link
 prerequisites:
   hard:
-  - content/user-journey-mapping
+    - content/user-journey-mapping
 ---
 
 ### Description
