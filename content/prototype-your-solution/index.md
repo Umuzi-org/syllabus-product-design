@@ -1,10 +1,11 @@
 ---
-title: 11. Prototype Your Solution
+_db_id: 716
 content_type: project
-submission_type: link 
 prerequisites:
   hard:
-  - content/sketch-possible-solutions
+  - content/sketch-possible-solution
+submission_type: link
+title: 11. Prototype Your Solution
 ---
 
 ### Description
