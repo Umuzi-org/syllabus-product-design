@@ -1,10 +1,11 @@
 ---
-title: 10. Sketch Possible Solution
+_db_id: 717
 content_type: project
-submission_type: link 
 prerequisites:
   hard:
   - content/problem-frame-and-identity-focus
+submission_type: link
+title: 10. Sketch Possible Solution
 ---
 
 ### Description
