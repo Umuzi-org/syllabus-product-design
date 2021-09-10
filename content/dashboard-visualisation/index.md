@@ -1,10 +1,11 @@
 ---
-title: 6. Dashboard Visualisation
+_db_id: 721
 content_type: project
-submission_type: link
 prerequisites:
   hard:
   - content/google-analytics
+submission_type: link
+title: 6. Dashboard Visualisation
 ---
 
 ### Description
