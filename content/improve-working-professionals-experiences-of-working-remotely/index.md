@@ -1,9 +1,10 @@
 ---
-title: 8. Improve working professionals experiences of working remotely
+_db_id: 719
 content_type: topic
 prerequisites:
   hard:
   - content/dashboard-presentation
+title: 8. Improve working professionals experiences of working remotely
 ---
 
 ### Design Challenge: Briefing
