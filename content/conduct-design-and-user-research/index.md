@@ -1,7 +1,8 @@
 ---
-title: Optional - Conduct design and user research
+_db_id: 729
 content_type: project
 submission_type: link
+title: Optional - Conduct design and user research
 ---
 
 Please note: this is an optional course, however, we encourage that you complete it to improve your research skills. Aim to work on the course whenever waiting for feedback from the bootcamp manager.
