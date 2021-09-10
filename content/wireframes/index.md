@@ -1,10 +1,11 @@
 ---
-title: 4. Wireframing
+_db_id: 723
 content_type: project
-submission_type: link
 prerequisites:
   hard:
   - content/user-flows
+submission_type: link
+title: 4. Wireframing
 ---
 
 ### Description
