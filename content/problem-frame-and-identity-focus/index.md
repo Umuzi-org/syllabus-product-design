@@ -1,10 +1,11 @@
 ---
-title: 9. Problem Framing and Identity Focus
+_db_id: 718
 content_type: project
-submission_type: link 
 prerequisites:
   hard:
   - content/improve-working-professionals-experiences-of-working-remotely
+submission_type: link
+title: 9. Problem Framing and Identity Focus
 ---
 
 ### Description
