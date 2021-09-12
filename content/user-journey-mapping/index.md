@@ -1,11 +1,11 @@
 ---
-title: User Journey Mapping
-content_type: project
 _db_id: 725
-submission_type: link
+content_type: project
 prerequisites:
   hard:
-    - content/user-interviews
+  - content/user-interviews
+submission_type: link
+title: User Journey Mapping
 ---
 
 {% image "https://static.wixstatic.com/media/258edc_b8b2bebed0294e908d377918a768091b~mv2.png/v1/fill/w_740,h_740,al_c,q_95/258edc_b8b2bebed0294e908d377918a768091b~mv2.webp" "2SPACE!" "50vw, 100vw"%}
