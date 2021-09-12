@@ -1,10 +1,11 @@
 ---
-title: Dashboard Visualisation
+_db_id: 721
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/google-analytics
+  - content/google-analytics
+submission_type: link
+title: Dashboard Visualisation
 ---
 
 {% image "https://static.wixstatic.com/media/00187f_8792faae88fa4057a811536594c5b0d3~mv2.png/v1/fill/w_808,h_805,al_c,q_90,usm_0.66_1.00_0.01/Black%20Man%20Working%20on%20Analytics.webp" "2SPACE!" "50vw, 100vw"%}

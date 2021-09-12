@@ -1,10 +1,11 @@
 ---
-title: Google Analytics
+_db_id: 722
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/wireframes
+  - content/wireframes
+submission_type: link
+title: Google Analytics
 ---
 
 {% image "https://miro.medium.com/max/700/1*J-Dv3HnD13NyYJBODu7k2A.png" "2SPACE!" "50vw, 100vw"%}

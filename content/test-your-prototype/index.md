@@ -1,10 +1,11 @@
 ---
-title: Test Your Prototype
+_db_id: 728
 content_type: project
-submission_type: link
 prerequisites:
   hard:
     - content/prototype-your-solution
+submission_type: link
+title: Test Your Prototype
 ---
 
 ### Description
@@ -26,7 +27,7 @@ You will be required to test your prototype - this is your moment of truth! You 
 
 - Document your test results on Figma and submit a link to your file.
 
-### Additional resources
+### Resources
 
 - [User testing](https://xd.adobe.com/ideas/process/user-testing/remote-usability-testing/)
 - [Usability testing](https://www.hotjar.com/usability-testing/)

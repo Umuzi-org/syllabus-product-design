@@ -115,6 +115,9 @@ const validateDirectory = (directoryPath) => {
 
       const filePath = path.join(directoryPath, item);
       if (fs.lstatSync(filePath).isDirectory()) {
+        if (name.startsWith(".")) return;
+        if (name.startsWith("_")) return;
+        if (name === "node_modules") return;
         if (!/^[\da-z0-9\-]*$/.test(name)) {
           // we are being stricter than technically required. But it's best to keep things tidy
           throw new Error(

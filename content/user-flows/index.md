@@ -1,10 +1,11 @@
 ---
-title: User Flows
+_db_id: 724
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/user-journey-mapping
+  - content/user-journey-mapping
+submission_type: link
+title: User Flows
 ---
 
 {% image "https://www.ebbhelp.org/wp-content/uploads/2021/05/Black-Man-_-Woman-Using-Mobile-Phone-D.png" "2SPACE!" "50vw, 100vw"%}
@@ -27,7 +28,7 @@ Design a user flow diagram for your user navigating through an app or website to
 
 - Create a simple user flow diagram on Figma. Once completed, submit a link to your Figma project.
 
-### Additional resources
+### Resources
 
 - [User flow kit](https://www.figma.com/community/file/830510773896272856)
 - [How to make a user flow diagram](https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram)

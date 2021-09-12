@@ -1,10 +1,11 @@
 ---
-title: Dashboard Presentation
+_db_id: 720
 content_type: project
-submission_type: link
 prerequisites:
   hard:
-    - content/dashboard-visualisation
+  - content/dashboard-visualisation
+submission_type: link
+title: Dashboard Presentation
 ---
 
 {% image "https://www.myunitedway.ca/wp-content/uploads/2020/08/0811-Anti-Racism-Blog-sq.png" "2SPACE!" "50vw, 50vw"%}

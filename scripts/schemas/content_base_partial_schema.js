@@ -6,6 +6,7 @@ module.exports = {
   title: { type: String, required: true },
   eleventyNavigation: {
     title: { type: String, required: false },
+    key: { type: String, required: false },
   },
   prerequisites: {
     hard: [{ type: String, required: false }],

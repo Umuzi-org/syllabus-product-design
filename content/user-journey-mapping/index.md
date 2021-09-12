@@ -1,11 +1,11 @@
 ---
-title: 2. User Journey Mapping
-content_type: project
 _db_id: 725
-submission_type: link
+content_type: project
 prerequisites:
   hard:
-    - content/user-interviews
+  - content/user-interviews
+submission_type: link
+title: User Journey Mapping
 ---
 
 ### Description
