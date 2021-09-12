@@ -1,5 +1,5 @@
 ---
-_db_id: 728
+ _db_id: 728 
 title: 12. Test Your Prototype
 content_type: project
 submission_type: link
@@ -24,11 +24,8 @@ You will be required to test your prototype - this is your moment of truth! Aim 
 Create a google document with all your test findings. Please submit the link on the project card once completed. Make sure that your document contains the following headings:
 - Interview questions. 
 - Interview answers as per interviewee.
-- Interpretations
+- Interpretations.
 
 ### Resources
 - [User testing](https://xd.adobe.com/ideas/process/user-testing/remote-usability-testing/)
 - [Usability testing](https://www.hotjar.com/usability-testing/)
-
-
-{% image "https://culturecheck.com/wp-content/uploads/2020/09/Two-Black-Men-Using-Laptop.png" "2SPACE!" "50vw, 100vw"%}
