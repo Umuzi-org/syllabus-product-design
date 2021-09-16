@@ -1,14 +1,14 @@
 ---
-_db_id: 66
-content_type: course
-eleventyNavigation:
-  key: /
-  title: Home
 title: UX Strategy Syllabus
+content_type: course
+eleventyNavigation: 
+    key: "/"
+    title: "Home"
 ---
 
-- {% contentLink collections "content/user-interviews" "none" %}
+- {% contentLink collections "content/intro-to-ux-strategy-bootcamp" "none" %}
 - {% contentLink collections "content/conduct-design-and-user-research" "none" %}
+- {% contentLink collections "content/user-interviews" "none" %}
 - {% contentLink collections "content/user-journey-mapping" "none" %}
 - {% contentLink collections "content/user-flows" "none" %}
 - {% contentLink collections "content/wireframes" "none" %}
