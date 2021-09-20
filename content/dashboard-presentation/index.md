@@ -1,5 +1,5 @@
 ---
-  _db_id: 720
+ _db_id: 720
 content_type: project
 prerequisites:
   hard:
