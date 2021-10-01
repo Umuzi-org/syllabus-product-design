@@ -5,7 +5,7 @@ prerequisites:
   hard:
   - content/user-interviews
 submission_type: link
-title: User Journey Mapping
+title: 2. User Journey Mapping
 ---
 
 ### Description
